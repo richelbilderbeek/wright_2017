@@ -1,0 +1,218 @@
+#NEXUS 
+BEGIN DATA;
+	DIMENSIONS  NTAX=83 NCHAR=92;
+	FORMAT DATATYPE=standard MISSING=?;
+MATRIX
+Adinocrinus	3	1	1	1	1	4	2	1	2	0	?	1	2	2	1	2	1	1	1	2	1	0	0	2	0	1	0	1	2	1	1	1	1	1	1	0	0	1	0	1	0	2	0	1	1	0	2	0	1	1	?	0	?	?	?	?	?	?	?	?	?	0	0	0	1	1	0	1	0	1	0	2	0	1	?	0	0	0	?	2	1	1	1	0	3	0	0	1	0	?	?	?
+Aesiocrinus	3	1	1	1	0	?	1	1	1	0	?	1	1	1	0	0	1	1	1	1	1	0	0	2	0	0	0	?	2	1	1	1	1	1	1	0	0	2	0	1	0	2	2	1	1	0	2	0	1	1	1	0	0	0	1	2	1	1	1	0	?	0	1	0	1	0	1	1	?	0	0	1	0	1	2	0	0	1	?	0	0	0	0	0	0	0	1	1	1	?	1	2
+Agassizocrinus	1	2	0	1	0	?	0	0	0	2	?	1	0	2	0	0	1	1	0	0	0	0	0	2	0	1	0	0	2	1	1	1	1	0	1	0	0	1	0	1	0	0	0	1	1	0	0	0	0	?	?	?	?	?	?	?	?	?	?	?	?	0	1	0	1	0	0	1	?	0	0	1	0	1	2	0	0	1	?	0	0	1	0	0	0	0	0	0	?	?	0	0
+Amabilicrinus	2	0	0	0	0	?	0	0	0	0	1	0	0	1	0	0	1	1	0	0	1	0	0	2	0	?	0	0	2	1	?	?	?	0	1	0	0	1	0	1	2	1	0	1	1	2	1	0	0	1	1	?	0	1	1	1	0	0	1	0	?	0	0	0	1	1	1	1	1	1	1	3	2	1	2	0	0	1	?	1	1	0	0	0	3	0	0	1	0	1	0	0
+Ampelocrinus	3	1	1	1	0	?	0	1	1	0	1	0	0	1	0	0	1	1	0	0	1	0	0	2	0	1	0	2	2	1	1	1	1	1	1	0	0	2	0	1	1	2	2	1	1	1	2	2	1	1	1	0	0	0	0	?	3	0	0	0	?	0	1	0	1	0	1	1	?	0	0	1	0	1	2	0	0	2	?	0	0	0	0	0	0	0	0	1	1	1	1	2
+Anobasicrinus	3	1	0	1	0	?	1	1	1	0	0	1	0	1	0	0	1	1	0	0	1	0	0	1	?	1	0	0	2	1	1	1	1	1	1	0	0	1	0	1	2	1	0	1	1	2	1	0	0	1	1	0	2	0	1	2	1	2	0	0	?	0	1	0	1	0	0	1	0	1	1	3	2	1	2	0	0	0	?	0	0	1	0	0	3	0	0	1	0	?	?	?
+Aphelecrinus	2	0	0	0	0	?	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	2	0	?	0	0	2	1	1	?	?	1	1	0	0	1	0	1	2	1	0	1	1	2	1	0	0	1	1	0	0	0	0	?	0	0	0	0	?	0	0	0	1	0	0	1	0	1	0	2	0	1	2	0	0	2	?	1	0	1	1	0	3	0	0	1	0	0	?	?
+Apographiocrinus	3	1	1	1	0	?	2	1	2	0	?	1	1	1	1	2	1	1	0	2	1	0	0	1	2	1	0	2	2	1	1	1	1	1	1	0	2	2	0	1	?	2	2	1	1	?	2	0	1	1	0	0	1	0	0	?	0	0	0	0	?	0	1	0	1	0	0	1	0	0	0	1	0	1	2	0	0	1	?	2	0	1	2	0	0	0	0	1	0	?	0	0
+Arkacrinus	3	1	1	1	0	?	2	1	2	0	2	1	2	2	0	2	1	1	1	2	1	0	0	2	1	1	0	1	2	1	1	1	1	1	1	1	?	?	2	0	?	?	?	?	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	0	1	0	1	?	?	?	?	?	?	?	?	1	2	?	?	?	?	?	?	?	?	?	?	?	?	1	0	?	?	?
+Barycrinus	2	1	0	1	1	3	0	0	0	0	1	0	0	2	0	2	1	1	0	1	1	0	0	0	?	1	1	1	1	0	0	0	0	1	1	0	1	1	0	1	1	0	0	0	0	?	?	?	?	1	?	?	0	0	0	?	0	0	0	0	?	0	0	0	1	0	1	1	?	0	0	1	1	0	1	0	0	0	?	0	0	0	0	0	3	0	0	1	0	0	0	0
+Basleocrinus	2	1	0	1	0	?	0	0	0	2	?	?	0	2	0	0	1	1	0	0	0	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	2	2	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	0	1	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	1	0	?	?	?
+Botryocrinus	2	0	0	0	0	?	0	0	0	0	1	0	0	1	0	0	1	0	0	0	1	0	0	1	?	0	1	1	0	0	?	?	?	1	1	0	1	1	0	1	0	0	0	0	0	?	?	?	?	1	1	?	0	0	1	1	3	0	0	0	?	0	0	0	1	0	1	1	1	1	0	2	1	0	1	0	0	0	?	0	0	0	0	0	2	0	0	1	1	1	0	0
+Blothrocrinus	2	0	0	0	0	?	0	0	0	0	1	0	0	2	0	0	1	1	0	0	0	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	0	1	0	1	2	1	0	1	1	2	1	0	1	1	1	0	0	0	0	?	0	0	0	0	?	0	0	0	1	0	1	1	1	1	1	3	1	1	2	0	0	2	?	0	0	0	0	0	3	0	0	1	0	?	0	0
+Bridgerocrinus	1	0	0	0	0	?	0	0	0	0	2	0	0	2	0	0	1	0	0	0	1	0	0	2	0	?	0	0	2	1	?	?	?	1	1	0	0	1	0	1	0	0	0	1	1	?	1	0	0	1	1	0	1	0	0	?	?	0	0	1	0	0	1	0	1	0	1	1	0	0	0	1	0	1	2	0	0	1	?	2	0	0	2	0	0	0	0	1	0	?	?	?
+Bursacrinus	3	0	0	1	1	4	0	0	0	0	0	0	0	2	1	0	1	1	0	0	0	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	2	2	0	?	?	?	?	?	?	?	?	?	?	1	?	?	?	?	?	?	?	?	?	?	?	0	0	0	1	0	0	1	0	1	0	2	0	1	2	0	0	1	?	0	0	0	0	0	3	0	0	1	?	?	?	?
+Cadocrinus	2	1	0	1	0	?	2	1	2	0	?	0	1	2	0	2	1	1	0	2	1	0	0	2	1	1	0	2	2	1	1	1	1	1	1	0	1	2	0	0	?	?	?	?	0	?	?	?	?	1	1	0	1	0	1	2	1	2	0	0	?	0	1	0	?	?	?	?	?	?	?	?	?	1	2	?	?	?	?	?	?	?	?	?	?	?	?	1	0	?	?	?
+Calceolispongia	3	1	1	1	0	?	2	1	1	0	2	1	1	2	0	2	1	1	0	0	0	0	0	2	0	1	0	?	2	1	1	1	1	1	1	0	0	2	0	1	?	2	2	1	1	?	2	0	1	0	0	1	?	?	?	?	?	?	0	0	?	0	1	0	0	0	?	0	?	0	0	0	?	1	2	0	0	3	?	0	0	0	0	0	3	1	1	1	1	?	1	2
+Delocrinus	3	1	1	1	0	?	2	1	2	0	?	1	1	1	0	2	1	1	0	1	0	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	2	2	0	1	?	2	?	?	1	?	2	?	?	1	1	0	0	0	0	?	1	1	0	1	0	0	1	0	1	0	0	1	?	0	0	1	0	1	2	1	1	?	1	2	0	2	2	0	3	0	0	1	0	?	?	?
+Cercidocrinus	2	0	0	0	0	?	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	2	0	?	0	0	2	1	?	?	1	1	1	0	0	1	0	1	2	0	0	1	1	2	1	0	0	1	1	?	?	?	1	?	3	2	0	0	?	0	1	0	1	1	0	1	0	1	1	3	2	1	2	0	0	0	?	2	1	1	1	0	3	0	0	1	0	?	?	?
+Clathrocrinus	3	1	0	1	0	?	2	1	2	0	?	1	1	1	0	1	1	1	0	0	1	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	0	1	0	1	0	0	1	0	1	0	1	2	2	1	2	0	0	0	0	?	3	0	1	1	1	0	0	0	1	0	0	1	?	0	0	1	0	1	2	0	0	1	?	1	0	2	2	0	0	0	0	1	0	?	0	0
+Codiacrinus	2	2	0	0	1	0	0	0	0	1	0	0	0	2	0	1	0	0	0	0	0	0	0	0	?	2	1	1	0	0	1	0	0	1	0	?	?	?	?	0	?	?	?	?	0	?	?	?	?	0	0	?	?	0	0	?	?	?	0	0	?	0	0	0	1	0	2	?	?	1	1	3	0	0	0	0	0	0	0	0	0	0	?	0	3	0	0	1	0	?	?	?
+Corematocrinus	2	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	1	1	0	0	1	0	0	0	?	2	1	0	?	?	?	?	?	1	1	0	2	1	0	1	0	1	1	1	1	2	1	0	0	1	1	0	0	0	1	0	3	?	0	0	?	0	1	0	1	0	1	1	?	0	0	1	0	1	2	0	0	1	?	1	0	0	1	0	0	0	0	1	1	?	0	0
+Corythocrinus	2	0	0	0	0	?	0	0	0	0	2	0	0	2	0	0	1	1	0	0	0	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	0	2	0	0	?	?	?	?	0	?	?	?	?	1	?	?	0	0	0	?	0	?	0	0	?	0	1	0	1	0	3	1	0	1	1	3	0	1	2	0	0	3	?	0	0	0	0	0	3	0	1	1	0	?	0	0
+Cricocrinus	3	1	0	1	0	?	1	0	2	0	0	0	2	2	0	0	0	1	0	1	1	0	0	2	0	1	0	0	2	1	1	1	1	1	1	1	?	2	2	0	?	?	?	?	0	?	?	?	?	1	?	?	?	?	?	?	?	?	?	?	?	0	1	0	1	0	0	1	?	0	0	1	0	1	2	1	1	?	2	0	0	2	?	0	0	0	0	1	0	?	?	?
+Cromyocrinus	3	2	0	0	0	?	0	0	0	0	?	1	0	1	0	1	1	1	0	1	0	0	0	2	2	1	0	0	2	1	1	1	1	1	1	0	0	1	0	1	2	1	0	1	1	0	1	0	1	1	0	0	0	0	0	?	0	1	0	0	?	0	0	0	0	?	?	0	?	0	0	0	?	1	2	0	0	1	?	0	0	0	0	0	0	0	0	1	0	?	0	0
+Crotalocrinites	2	2	0	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	?	1	?	0	?	0	?	0	?	1	1	0	0	2	0	0	?	?	?	?	0	?	?	?	?	0	0	?	?	0	0	?	?	?	0	0	?	0	1	1	1	0	1	3	0	1	1	2	2	0	0	0	0	0	?	0	0	2	0	0	3	0	0	1	0	0	0	0
+Cupressocrinities	3	1	1	1	0	?	1	1	1	2	?	?	1	1	0	1	0	1	0	1	1	0	0	2	0	1	0	0	3	1	1	0	0	1	0	?	?	?	?	0	?	?	?	?	0	?	?	?	?	1	0	?	?	0	0	?	?	?	0	0	?	0	1	0	0	0	?	0	?	0	0	0	?	1	3	0	0	0	?	0	0	0	0	0	0	0	0	1	?	?	1	1
+Cupulocrinus	2	0	0	0	0	?	0	0	0	0	1	0	0	1	1	0	1	1	0	0	0	0	0	1	?	1	0	0	1	1	1	1	0	1	1	0	0	0	0	1	2	1	0	0	0	?	?	?	?	1	1	0	0	1	0	?	0	0	0	0	?	0	0	0	1	0	2	1	0	1	1	3	0	0	0	0	0	0	?	0	0	0	0	0	3	0	0	1	0	0	0	0
+Cyathocrinites	2	2	0	0	1	0	0	0	0	0	0	0	0	1	0	1	1	1	0	0	0	0	0	0	?	2	1	1	1	1	0	0	0	1	1	0	1	2	0	0	?	?	?	?	0	?	?	?	?	1	1	0	0	0	0	?	1	0	0	0	?	0	0	0	1	0	2	1	1	1	1	3	0	0	0	0	0	0	?	0	0	0	0	0	3	0	0	1	0	0	0	0
+Cymbiocrinus	3	1	0	1	0	?	2	1	2	0	?	1	1	?	0	2	1	1	0	0	1	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	0	2	0	1	0	2	2	1	1	0	2	?	1	1	0	0	0	0	0	?	0	?	0	0	?	0	1	0	1	0	1	1	?	0	0	1	0	1	2	0	0	3	?	0	0	0	0	0	0	0	1	1	1	?	1	2
+Decadocrinus	3	1	0	1	0	?	2	1	2	0	0	1	1	1	0	2	1	1	0	0	0	0	0	2	0	1	0	1	2	1	1	1	1	1	1	0	0	1	0	1	0	1	0	1	1	0	1	0	1	1	1	0	0	0	0	?	0	2	0	0	?	0	1	0	1	1	1	1	?	0	0	1	0	1	2	0	0	3	?	0	1	0	0	0	0	0	0	1	1	?	0	0
+Dendrocrinus	2	0	0	0	0	?	0	0	0	0	2	0	0	2	1	0	1	1	0	0	1	0	0	0	?	0	1	1	0	0	?	?	?	1	1	0	0	0	0	1	2	0	0	0	1	2	2	1	1	1	1	0	0	0	1	1	3	0	0	0	?	0	0	0	1	1	2	2	0	1	1	3	0	0	0	0	0	0	?	0	0	0	0	0	3	0	0	1	0	?	0	0
+Diphuicrinus	3	1	0	1	1	4	2	1	2	0	?	1	1	1	0	2	1	1	0	1	?	0	0	2	1	1	0	0	2	1	1	1	1	1	1	0	0	2	0	1	?	2	2	1	1	?	2	?	?	1	?	?	?	?	?	?	?	?	?	?	?	0	1	0	1	0	0	1	?	0	0	1	0	1	2	0	0	3	?	0	0	1	0	1	0	0	0	1	0	?	0	0
+Erisocrinus	2	0	1	0	0	?	1	0	1	0	0	0	0	1	0	1	0	1	0	1	1	0	0	2	0	1	0	0	2	1	1	1	1	1	1	1	?	?	2	0	?	?	?	?	0	?	?	?	?	1	1	0	0	0	0	?	0	0	0	0	?	0	1	0	1	0	0	1	?	0	0	1	0	1	2	1	1	?	2	2	0	1	0	0	0	0	0	1	0	0	0	0
+Eupachycrinus	3	1	0	1	0	?	2	1	2	0	2	1	1	2	0	2	1	1	0	1	0	0	0	2	1	1	0	0	2	1	1	1	1	1	1	0	0	1	0	1	0	0	0	1	1	0	1	0	0	1	0	?	?	?	?	?	?	?	0	1	0	0	1	0	1	1	0	1	0	1	0	2	0	1	2	1	1	?	2	0	1	1	0	0	3	0	0	1	0	?	0	0
+Euspirocrinus	2	1	0	0	0	?	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	0	?	2	1	1	0	0	0	0	0	1	1	0	0	1	0	1	2	0	0	1	1	2	0	0	0	1	1	0	1	0	0	?	0	1	0	?	?	0	0	0	1	0	1	1	?	1	1	3	0	0	0	0	0	0	?	0	0	0	0	0	3	0	0	1	0	?	0	0
+Exocrinus	2	1	0	?	0	?	1	1	2	0	?	1	0	1	0	1	1	1	0	0	1	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	2	2	0	1	0	2	1	1	1	0	2	?	1	1	0	?	0	0	0	?	0	0	0	0	?	0	1	0	1	0	0	1	1	1	1	3	1	1	3	0	0	0	?	2	0	1	2	0	3	0	0	1	0	?	0	0
+Galateacrinus	3	1	0	1	1	4	2	1	2	0	?	1	2	1	0	2	1	1	1	2	1	0	0	2	2	1	0	0	2	1	1	1	1	1	1	0	?	1	0	1	?	0	0	1	1	?	0	0	1	1	?	?	?	?	?	?	?	?	?	?	?	0	1	0	1	0	0	1	1	1	1	3	2	1	2	0	0	3	?	0	0	1	?	0	3	0	0	1	0	?	0	0
+Gasterocoma	1	2	0	0	0	?	0	0	1	2	?	1	0	2	0	1	1	2	0	1	1	0	0	0	?	2	1	1	0	0	1	0	0	1	1	0	1	2	0	0	?	?	?	?	0	?	?	?	?	0	0	?	?	0	0	?	?	?	0	0	?	0	0	0	1	1	?	?	0	1	1	3	0	0	0	0	0	0	?	0	0	0	0	0	3	0	0	1	0	?	0	0
+Glossocrinus	2	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	1	?	1	1	0	0	0	?	1	?	1	1	0	0	1	0	1	0	1	0	1	1	2	1	0	0	1	1	?	0	1	1	1	3	0	0	0	?	0	0	0	1	0	2	1	?	1	0	2	0	1	2	0	0	1	?	0	0	0	2	0	3	0	0	1	1	?	1	1
+Graphiocrinus	4	1	0	1	0	?	2	1	2	0	?	1	2	0	0	2	1	1	1	2	1	0	0	2	0	1	0	1	2	1	1	1	1	1	1	0	2	2	0	0	?	?	?	?	0	?	?	?	?	1	?	?	?	?	?	?	?	?	?	?	?	0	1	0	1	0	0	1	?	0	0	1	0	1	2	0	0	0	?	2	0	1	2	0	0	0	0	1	0	?	0	0
+Hydreionocrinus	3	1	0	1	0	?	0	0	0	0	?	0	0	1	0	?	1	1	0	0	1	0	0	2	0	1	0	1	2	1	1	1	1	1	1	0	0	1	0	1	0	1	0	1	1	0	1	0	0	1	2	0	?	0	?	?	?	2	1	1	2	0	1	0	1	0	0	1	1	1	1	3	3	1	2	1	?	?	1	1	0	1	0	0	3	0	0	1	0	?	0	0
+Indocrinus	1	0	1	1	1	3	0	0	0	1	2	0	0	2	0	2	1	1	0	0	0	0	0	1	?	0	1	1	?	?	?	?	?	?	1	0	1	2	0	0	?	?	?	?	0	?	?	?	?	0	0	0	?	?	?	?	?	?	?	?	?	1	1	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	0	1	?	?	?	?
+Laudonocrinus	3	1	0	1	0	?	1	0	2	0	0	1	1	1	0	2	1	1	1	2	1	0	0	1	2	1	0	1	2	1	1	1	1	1	1	0	?	1	0	1	?	1	0	1	1	?	2	0	0	1	?	?	0	0	1	3	?	2	1	1	2	0	1	0	1	0	0	1	0	1	1	?	2	1	2	0	0	0	?	0	0	1	0	1	?	0	0	1	0	?	?	?
+Lecythocrinus	3	0	0	0	0	?	0	0	0	2	?	0	0	2	0	0	1	0	0	0	0	0	0	0	?	?	1	1	0	0	0	0	0	1	1	0	2	2	0	1	2	0	0	1	0	?	?	?	?	1	1	0	0	0	0	?	0	0	0	0	?	0	0	0	1	0	2	1	0	1	1	3	0	0	0	0	0	0	?	0	0	0	0	0	3	0	0	1	1	?	0	0
+Lophocrinus	2	0	0	0	0	?	0	0	0	0	2	0	0	2	0	0	1	0	0	0	0	0	0	1	?	?	?	0	?	?	?	?	?	1	1	0	0	2	0	1	?	2	2	1	1	?	2	?	1	1	1	0	0	0	0	?	1	0	0	0	?	0	1	0	0	0	?	0	?	0	0	0	?	0	1	0	0	3	?	0	0	0	0	0	0	0	0	1	0	0	0	0
+Manicrinus	2	0	0	0	0	?	0	0	0	1	1	0	0	2	1	0	1	1	0	0	0	1	1	0	?	0	1	1	0	0	0	0	0	1	1	0	0	2	0	0	?	?	?	?	0	?	?	?	?	0	0	?	?	0	0	?	?	?	0	0	?	0	0	0	1	0	?	?	?	?	?	?	?	0	0	0	0	0	?	0	0	0	0	0	?	0	0	1	0	?	?	?
+Mastigocrinus	2	0	0	0	0	?	0	0	0	0	2	0	0	2	0	0	1	0	0	0	1	0	0	1	?	0	1	1	0	0	?	1	0	1	1	0	1	2	0	0	?	?	?	?	0	?	?	?	?	1	1	0	0	0	1	1	3	0	0	0	?	0	0	0	1	0	2	2	1	1	1	2	1	0	0	0	0	0	?	0	0	0	0	0	3	0	0	1	0	?	0	0
+Mollocrinus	2	2	0	1	0	?	0	0	0	1	?	0	0	1	0	1	1	1	0	0	0	0	0	0	?	0	1	1	1	1	0	1	?	1	1	0	1	1	0	1	0	0	0	0	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	0	0	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	1	?	?	?	?
+Oligobrachyocrinus	1	0	0	0	1	4	0	0	0	0	2	0	0	2	0	0	?	2	0	0	0	0	?	0	?	0	1	1	1	1	?	?	?	1	?	?	?	?	?	0	?	?	?	?	0	?	?	?	?	0	0	1	?	?	?	?	?	?	0	0	?	1	0	0	?	?	?	?	?	?	?	?	?	0	?	0	0	?	?	?	?	?	?	?	?	0	0	1	0	?	?	?
+Ottawacrinus	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	1	0	1	?	?	0	0	?	?	?	?	?	1	1	0	2	0	0	1	2	0	0	0	1	2	1	1	2	1	1	0	0	0	0	?	0	0	0	0	?	0	1	1	1	0	2	2	1	1	1	3	1	0	0	0	0	0	?	1	0	0	1	0	3	0	0	1	0	1	0	0
+Pachylocrinus	3	1	0	1	0	?	1	1	2	0	?	0	0	1	0	1	1	1	0	0	0	0	0	1	?	1	0	0	2	1	1	1	1	1	1	0	0	1	0	1	2	1	0	1	1	2	1	0	0	1	1	0	0	0	?	?	?	0	0	0	?	0	0	0	1	0	1	1	1	1	1	3	1	1	2	0	0	2	?	0	0	0	0	0	3	0	0	1	0	?	0	0
+Paradelocrinus	3	1	0	1	0	?	2	1	2	0	?	1	2	2	0	2	0	1	1	2	1	0	0	2	1	1	0	1	2	1	1	1	1	1	1	1	?	2	2	0	?	?	?	?	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	0	1	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	1	0	?	?	?
+Pelecocrinus	2	1	0	1	0	?	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	1	?	1	1	1	?	1	1	1	?	1	1	0	0	1	0	1	0	0	0	1	1	2	1	0	0	1	0	1	1	0	0	?	?	2	0	1	1	0	0	0	1	1	2	1	1	1	1	3	1	1	2	0	0	3	?	0	1	1	0	0	3	0	0	1	1	?	0	0
+Petalocrinus	3	1	1	0	0	?	1	1	2	2	?	?	1	2	0	1	0	1	0	0	1	0	0	0	?	0	1	1	0	0	?	0	?	1	0	?	?	?	?	0	?	?	?	?	0	?	?	?	?	0	0	?	?	0	0	?	?	?	0	0	?	0	0	1	?	0	1	3	?	?	?	?	?	0	0	?	?	?	?	0	?	2	0	0	?	0	0	1	0	?	?	?
+Phanocrinus	3	1	0	1	0	?	2	2	2	0	?	1	1	1	0	1	1	1	1	0	0	0	0	2	0	1	0	0	2	1	1	1	?	1	1	0	0	1	0	1	2	1	0	1	1	2	1	0	0	1	0	1	?	0	?	?	?	?	?	1	0	0	1	0	1	0	0	1	?	0	0	1	0	1	2	0	?	1	?	0	0	1	0	0	0	0	0	1	0	1	0	0
+Pirasocrinus	4	1	1	1	0	?	2	1	2	0	?	1	2	2	1	2	1	1	1	2	1	0	0	2	0	1	0	1	2	1	1	1	1	1	1	0	0	1	0	1	2	1	0	1	1	0	2	0	1	1	2	1	1	0	0	?	?	2	?	1	2	0	1	0	0	0	0	1	0	1	1	3	0	1	2	0	0	0	?	2	0	1	0	1	3	1	0	1	0	?	0	0
+Plicodendrocrinus	2	0	0	0	1	1	0	0	0	0	0	0	0	2	0	0	1	1	0	0	1	0	0	0	?	0	1	1	0	0	?	?	?	1	1	0	0	0	0	1	2	0	0	0	1	2	2	1	1	1	1	0	0	0	1	1	3	0	0	0	?	0	0	0	1	1	2	2	0	1	1	3	0	0	0	0	0	0	?	0	0	0	0	0	3	0	0	1	1	?	0	0
+Poteriocrinites	2	0	0	0	0	?	0	0	0	0	1	0	0	1	0	0	1	0	0	0	1	0	1	0	?	0	1	1	1	1	0	0	?	1	1	0	0	1	0	1	2	0	0	1	1	2	0	0	0	1	1	0	0	0	1	1	3	0	0	0	?	0	0	0	1	0	2	1	0	1	1	3	0	1	2	0	0	0	?	0	0	0	0	0	3	0	0	1	0	1	1	1
+Proctothylacocrinus	2	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	1	1	0	0	0	0	0	1	?	1	0	0	0	0	?	?	?	1	1	0	0	1	0	1	2	0	0	1	1	2	2	0	0	1	1	0	0	1	1	3	2	0	0	0	?	0	0	0	1	1	2	1	1	1	1	3	0	0	0	0	0	0	?	0	0	0	0	0	3	0	0	1	0	?	0	0
+Protencrinus	3	1	1	1	0	?	2	1	2	0	?	1	2	2	0	2	1	1	1	2	1	0	0	2	0	1	0	0	2	1	1	1	1	1	1	1	?	2	2	0	?	?	?	?	0	?	?	?	?	1	?	?	?	?	?	?	?	?	?	?	?	0	1	0	1	0	0	1	?	0	0	1	0	1	2	1	1	?	1	1	0	1	0	0	0	0	0	1	?	?	?	?
+Rhenocrinus	2	0	0	0	0	?	0	0	0	0	0	0	0	0	0	0	1	1	0	0	?	0	0	1	?	1	0	0	?	?	?	?	?	1	1	0	2	1	0	1	?	?	0	1	1	?	?	0	0	1	1	0	0	0	0	?	0	1	0	0	?	0	0	0	1	?	2	2	?	0	0	1	0	0	1	0	0	0	?	1	?	0	0	0	0	0	0	1	0	?	0	0
+Rutkowskicrinus	3	0	0	0	1	1	0	0	0	0	0	0	0	1	1	0	1	1	0	0	1	0	0	1	?	1	0	1	1	1	1	0	0	1	1	0	0	2	0	0	?	?	?	?	0	?	?	?	?	1	1	0	0	1	1	1	?	0	0	0	?	0	0	0	1	0	2	1	0	0	0	2	1	1	2	0	0	0	?	0	0	0	0	0	3	0	0	1	2	?	1	1
+Scotiacrinus	3	1	0	1	1	4	1	1	2	0	?	1	1	1	0	1	1	1	0	1	1	0	0	2	0	1	0	0	2	1	1	1	?	1	1	0	0	1	0	1	2	1	0	1	1	?	1	0	0	1	?	?	?	?	?	?	?	?	?	?	?	0	1	0	1	0	0	1	?	0	0	1	1	1	2	0	0	1	?	0	0	1	0	0	0	0	0	1	0	?	?	?
+Sellardsicrinus	3	1	0	1	0	?	1	1	2	0	0	1	1	1	0	2	1	1	0	1	1	0	0	2	0	1	?	0	2	1	1	1	?	1	1	0	?	1	0	1	?	1	0	1	1	?	1	0	0	1	?	?	?	?	?	?	?	?	?	?	?	0	1	0	1	0	0	1	0	1	1	3	0	1	2	1	0	?	0	0	0	1	0	0	3	0	0	1	0	?	?	?
+Sostronocrinus	2	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	1	?	0	0	0	2	1	1	1	1	1	1	0	0	1	0	1	?	1	0	1	1	?	1	0	0	1	1	0	0	1	1	0	0	0	0	0	?	0	1	0	1	0	1	1	0	1	0	2	0	1	2	0	0	2	?	0	0	0	0	0	3	0	0	1	1	?	?	?
+Scytalocrinus	3	1	0	1	0	?	1	0	1	0	2	1	0	0	0	0	1	1	0	0	1	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	2	1	0	1	0	1	1	1	1	2	1	1	0	1	1	0	0	0	0	?	0	0	0	0	?	0	1	0	1	0	0	1	?	0	0	1	0	1	2	0	0	1	?	1	0	1	1	0	0	0	0	1	0	?	0	0
+Spaniocrinus	3	1	1	1	0	?	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	2	0	1	0	0	2	1	1	1	?	1	0	?	?	?	?	0	?	?	?	?	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	0	1	1	0	?	?	0	?	0	0	0	?	1	2	0	0	0	?	2	?	0	0	0	0	0	0	1	0	?	?	?
+Sphaerocrinus	1	2	0	1	1	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	?	1	1	1	0	0	0	0	0	1	1	0	?	1	0	1	?	0	0	0	0	?	?	?	?	0	0	1	?	?	0	?	?	?	0	0	?	0	0	0	?	0	?	?	?	?	?	?	?	0	0	0	0	0	?	?	?	0	?	0	?	0	0	1	?	?	?	?
+Stachyocrinus	3	1	1	1	0	?	2	1	2	0	?	1	2	2	0	2	0	1	1	2	1	0	0	2	0	1	0	0	2	1	1	1	?	1	1	1	?	2	2	0	?	?	?	?	0	?	?	?	?	1	?	?	?	?	?	?	?	?	?	?	?	0	1	1	1	0	0	1	?	0	0	1	0	1	2	0	0	0	?	2	0	1	2	0	0	0	0	1	0	?	?	?
+Staphylocrinus	2	1	0	1	0	?	1	1	2	2	?	1	0	1	0	2	1	1	0	2	0	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	0	1	0	1	0	1	0	1	1	?	1	0	0	?	?	?	?	?	?	?	?	?	?	?	?	0	1	0	1	0	0	1	0	1	?	?	0	1	2	0	0	1	?	0	0	1	0	0	3	0	0	0	0	?	0	0
+Stellarocrinus	3	1	1	1	1	1	2	1	2	0	0	1	1	1	0	2	1	1	0	1	1	0	0	2	0	1	1	1	2	1	?	1	?	1	1	0	0	2	0	1	0	2	1	1	1	0	2	0	1	1	2	0	0	0	1	1	2	0	1	1	1	0	1	0	1	0	0	1	0	1	1	3	0	1	2	1	0	?	1	0	0	1	0	0	3	0	0	1	0	?	0	0
+Streblocrinus	1	2	0	0	0	?	0	0	0	0	2	0	0	2	1	0	1	2	0	0	0	0	0	0	?	1	1	1	0	0	0	0	0	1	1	0	1	1	0	0	?	?	?	?	0	?	?	?	?	0	0	0	?	0	0	?	?	?	0	0	?	1	0	0	?	?	?	?	?	?	?	?	?	0	0	0	0	0	?	0	?	0	?	0	?	0	0	1	?	?	?	?
+Sundacrinus	2	1	0	1	1	4	0	0	1	0	0	0	0	1	1	1	1	1	0	0	0	0	0	2	0	1	0	2	2	1	1	1	?	1	1	0	0	2	0	1	?	2	2	1	1	?	2	0	?	?	?	?	?	?	?	?	?	?	?	?	?	1	1	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	1	0	?	?	?
+Sycocrinites	0	2	0	0	0	?	0	0	0	1	2	0	0	2	0	0	1	0	0	0	0	0	0	0	?	0	1	?	0	0	0	0	0	1	0	?	?	?	?	0	?	?	?	?	0	?	?	?	?	0	0	1	?	0	0	?	?	?	0	0	?	2	?	0	0	?	?	0	?	0	0	0	?	0	0	0	0	0	?	?	?	?	?	?	0	0	0	1	0	?	?	?
+Texacrinus	3	1	0	1	0	?	2	1	2	0	?	1	1	1	0	2	1	1	0	1	1	0	0	2	0	1	0	0	2	1	1	?	?	1	1	0	0	2	0	1	0	1	1	1	1	0	1	0	1	1	?	0	0	0	0	1	3	0	?	0	?	0	1	0	1	0	0	1	1	1	1	3	3	1	2	0	0	1	?	1	0	1	1	0	3	0	0	1	0	?	?	?
+Thalamocrinus	1	2	0	1	0	?	0	0	0	0	2	0	0	2	0	0	1	1	0	0	0	0	0	1	?	1	1	0	0	0	0	0	0	1	1	0	2	1	0	1	0	0	0	0	0	?	?	?	?	1	1	0	0	0	0	?	0	0	0	0	?	0	0	0	1	0	?	?	?	1	?	?	0	0	0	0	0	0	?	0	?	0	?	0	?	0	0	1	0	?	?	?
+Thenarocrinus	2	0	0	0	0	?	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	1	?	1	0	1	?	?	?	?	?	1	1	0	0	1	1	1	2	0	0	0	1	0	1	2	0	1	1	0	0	1	1	1	3	1	0	0	?	0	0	1	1	1	2	1	1	1	1	2	0	0	0	0	0	0	?	0	?	0	0	0	3	0	0	1	0	?	0	0
+Timorechinus	3	1	1	1	0	?	2	1	2	2	?	1	1	1	1	2	0	1	0	1	1	0	0	2	0	1	0	0	2	1	1	?	?	1	1	0	0	2	2	0	?	?	?	?	0	?	?	?	?	1	0	1	1	0	1	1	?	?	0	0	?	0	1	0	1	0	0	1	?	0	0	1	1	1	2	0	0	0	?	2	0	1	2	0	0	0	0	1	0	?	?	?
+Tribrachyocrinus	2	1	0	1	0	?	1	1	1	1	?	1	0	2	1	1	1	0	0	1	0	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	0	1	0	1	1	0	0	1	1	?	1	0	0	1	0	0	?	?	?	?	?	?	?	?	?	1	1	0	1	0	1	1	0	1	?	?	?	1	2	0	0	2	?	0	0	0	0	0	3	0	1	1	0	?	0	0
+Trimerocrinus	1	2	0	0	0	?	0	0	0	1	1	0	0	1	1	1	1	0	0	0	0	0	0	2	0	1	0	2	2	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	0	1	0	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	1	0	?	?	?
+Ulocrinus	1	2	0	0	0	?	0	0	0	0	2	0	0	2	0	0	1	1	0	0	0	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	0	1	0	1	1	0	1	0	0	?	?	?	?	1	?	?	?	?	?	?	?	?	?	?	?	0	1	0	1	0	0	1	?	0	0	1	0	1	2	1	1	?	1	0	0	1	0	0	0	0	0	1	0	1	0	0
+Zeacrinites	3	1	1	2	0	?	2	1	2	0	2	1	1	2	0	1	1	0	1	1	1	0	0	2	0	1	0	0	2	1	1	1	1	1	1	0	0	1	1	1	2	2	0	1	1	2	2	0	0	1	0	0	0	0	0	?	0	1	0	0	?	0	0	0	1	1	1	1	1	1	1	3	2	1	3	0	0	0	?	0	1	0	0	0	3	0	0	1	0	?	0	0
+
+;
+END;
+
+
+Begin mrbayes;	
+	set autoclose=yes nowarn=yes;	
+	outgroup Cupulocrinus;
+[set up likelihood model of character evolution to MkV + gamma distributed rates]
+	lset rates=gamma Ngammacat=4 coding=variable;
+[set up clade priors based on Wright (2017)]
+	constraint Root = 1-27 29-83; 
+	constraint node1 = 45 47 36 55 26;
+	constraint node2 partial = 73 77 69 21 39 : 28 57 45 36 47 55 26 58 32 12 48 78 60 62 63 40 22 4;
+	constraint node3 partial = 62 63 40 22 4 : 1-3 5-14 16-21 23-39 41-61 64-65 67-83;
+	[Additional constraints]
+	constraint node4 partial = 1 57 2 5 17 30 31 3 14 81 82 6 7 8 9 53 24 34 61 70 79 11 13 15 16 18 19 20 23 25 27 68 33 35 37 38 41 42 44 46 52 54 56 64 65 67 71 72 74 76 80 83 4 22 62 40 63 66 : 21 39 43 50 75 73 69 29 49 77 12 48 32 58 26 55 47 45 36;
+	constraint node5 partial = [10] 21 39 43 50 75 73 69 29 49 77 12 48 32 58 26 55 47 45 36 78 60 59 : 1 57 2 5 17 30 31 3 14 81 82 6 7 8 9 53 24 34 61 70 79 11 13 15 16 18 19 20 23 25 27 68 33 35 37 38 41 42 44 46 52 54 56 64 65 67 71 72 74 76 80 83 4 22 62 40 63 66;
+	constraint node6 partial = [10] 21 39 43 50 75 73 69 29 49 77 12 48 32 58 26 55 47 45 36 [59] : 1 57 2 5 17 30 31 3 14 81 82 6 7 8 9 53 24 34 61 70 79 11 13 15 16 18 19 20 23 25 27 68 33 35 37 38 41 42 44 46 52 54 56 64 65 67 71 72 74 76 80 83 4 22 62 40 63 66 78 60;
+	constraint node7 partial = [10] 21 39 43 50 75 73 69 29 49 77 : 1 57 2 5 17 30 31 3 14 81 82 6 7 8 9 53 24 34 61 70 79 11 13 15 16 18 19 20 23 25 27 68 33 35 37 38 41 42 44 46 52 54 56 64 65 67 71 72 74 76 80 83 4 22 62 40 63 66 60 78;
+	constraint node8 partial = 69 21 39 73 75 50 43 : 1 57 2 5 17 30 31 3 14 81 82 6 7 8 9 53 24 34 61 70 79 11 13 15 16 18 19 20 23 25 27 68 33 35 37 38 41 42 44 46 52 54 56 64 65 67 71 72 74 76 80 83 4 22 62 40 63 66 12 32 48 58 59;
+	constraint node9 = 27 68;
+	constraint node10 partial = 2 5 17 30 : 1 3-4 6-16 18-21 23-29 32-83;
+[calibrate priors on stratigraphic ranges] [fixed ages are midpoints of geologic stages of species FAD]
+calibrate	Adinocrinus	= 	fixed(70.0);
+calibrate	Aesiocrinus	= 	fixed(36.55); [Kasimovian]
+calibrate	Agassizocrinus = fixed(66.15);
+calibrate	Amabilicrinus	= fixed(108.65);
+calibrate	Ampelocrinus	= fixed(58.25);
+calibrate	Anobasicrinus	= fixed(34.15); [Kasimovian through Gzhelian]
+calibrate	Aphelecrinus	= fixed(66.15);
+calibrate	Apographiocrinus = fixed(34.15);  [Kasimovian through Gzhelian]
+calibrate	Arkacrinus = fixed(50.40);
+calibrate	Barycrinus	= fixed(70.0);
+[calibrate	Basleocrinus = uniform();] 
+calibrate	Botryocrinus	= fixed(161.6); 
+calibrate	Blothrocrinus	= fixed(70.0);
+calibrate	Bridgerocrinus	= fixed(84.0);
+calibrate	Bursacrinus	= 	fixed(84.0);
+[calibrate	Cadocrinus	= 	fixed(11.15);] 
+[calibrate	Calceolispongia	= fixed(18.0);]
+calibrate	Delocrinus	=  fixed(36.55);
+calibrate	Cercidocrinus = fixed(70.0);
+calibrate	Clathrocrinus = fixed(36.55);
+calibrate	Codiacrinus	= fixed(121.7);
+calibrate	Corematocrinus	= fixed(108.65);
+calibrate	Corythocrinus	= fixed(70.0);
+calibrate	Cricocrinus	= fixed(46.30);
+calibrate	Cromyocrinus	= fixed(42.3);
+calibrate	Crotalocrinites	= 	fixed(159.4);
+calibrate	Cupressocrinities = fixed(121.7);
+calibrate	Cupulocrinus	= fixed(180.3);
+calibrate	Cyathocrinites	= 	fixed(84.0);
+calibrate	Cymbiocrinus	= 	fixed(58.25);
+calibrate	Decadocrinus	= 	fixed(70.0);
+calibrate	Dendrocrinus	= 	fixed(161.6);
+calibrate	Diphuicrinus	= 	fixed(50.40);
+calibrate	Erisocrinus	= fixed(38.25);
+calibrate	Eupachycrinus	= 	fixed(66.15);
+calibrate	Euspirocrinus	= 	fixed(161.6);
+calibrate	Exocrinus	= 	fixed(36.55);
+calibrate	Galateacrinus	= 	fixed(42.3);
+calibrate	Gasterocoma	= 	fixed(121.7);
+calibrate	Glossocrinus	= 	fixed(108.65);
+calibrate	Graphiocrinus	= 	fixed(84.0);
+calibrate	Hydreionocrinus	= 	fixed(70.0);
+calibrate	Indocrinus	= 	fixed(18.0);
+calibrate	Laudonocrinus	= 	fixed(36.55);
+calibrate	Lecythocrinus	= 	fixed(121.7);
+calibrate	Lophocrinus	= 	fixed(70.0);
+calibrate	Manicrinus	= 	fixed(156.4);
+calibrate	Mastigocrinus	= 	fixed(157.5);
+[calibrate	Mollocrinus	= 	fixed(11.15); ]
+calibrate	Oligobrachyocrinus	= 	fixed(18.0);
+calibrate	Ottawacrinus	= 	fixed(180.3);
+calibrate	Pachylocrinus	= 	fixed(70.0);
+calibrate	Paradelocrinus	= 	fixed(50.40);
+calibrate	Pelecocrinus	= 	fixed(70.0);
+calibrate	Petalocrinus	= 	fixed(161.6);
+calibrate	Phanocrinus	= 	fixed(58.25);
+calibrate	Pirasocrinus	= fixed(42.3);
+calibrate	Plicodendrocrinus	= 	fixed(180.3);
+calibrate	Poteriocrinites	= 	fixed(70.0);
+calibrate	Proctothylacocrinus	= fixed(116.4);
+calibrate	Protencrinus	= 	fixed(42.3);
+calibrate	Rhenocrinus	= fixed(131.65);
+calibrate	Rutkowskicrinus	= 	fixed(116.4);
+calibrate	Scotiacrinus	= 	fixed(70.0);
+calibrate	Sellardsicrinus	= 	fixed(42.3);
+calibrate	Sostronocrinus	= 	fixed(84.0);
+calibrate	Scytalocrinus	= 	fixed(70.0);
+calibrate	Spaniocrinus	= 	fixed(11.15); 
+calibrate	Sphaerocrinus	= 	fixed(121.7);
+calibrate	Stachyocrinus	= 	fixed(11.15); 
+calibrate	Staphylocrinus	= 	fixed(58.25);
+calibrate	Stellarocrinus	= 	fixed(34.18);
+calibrate	Streblocrinus	= 	fixed(116.4);
+calibrate	Sundacrinus	= 	fixed(11.15); 
+calibrate	Sycocrinites	= fixed(70.0);
+calibrate	Texacrinus	= 	fixed(42.3);
+calibrate	Thalamocrinus	= 	fixed(150.3);
+calibrate	Thenarocrinus	= 	fixed(161.6);
+calibrate	Timorechinus	= fixed(20.45);
+[calibrate	Tribrachyocrinus	= 	uniform();] 
+[calibrate	Trimerocrinus	= 	fixed(11.15); ]
+calibrate	Ulocrinus	= 	fixed(50.40);
+calibrate	Zeacrinites	= 	fixed(58.25);
+[set prior distributions on tree shape and relaxed morphological clock model]
+	prset topologypr = constraints(Root, node1, node2, node3, node4, node5, node6, node7, node8,node9, node10);
+	prset treeagepr = fixed(185.0);
+	prset nodeagepr = calibrated;
+	prset brlenspr = clock : fossilization;
+	prset speciationpr = exp(10.0);
+	prset extinctionpr = beta(1,1);
+	prset fossilizationpr = beta(2,2);
+	prset samplestrat = diversity 3: 150.40 0, 90.10 0, 54.4 0; [Ord-Sil/Dev = 150.40, Dev/Carb = 90.10, Miss/Penn = 54.4]
+	prset sampleprob = 0.008; [5/630 = ~0.008]
+	prset  clockratepr = normal(0.01, 0.1);
+	prset clockvarpr = IGR;
+	prset IGRvarpr = exp(10);
+	
+
+	
+[mcmc settings]
+	mcmcp ngen= 1000000 samplefreq=1000 printfreq=1000 nruns=2 nchains=4 relburnin=yes burninfrac=0.50 temp = 0.05 savebrlens=yes;
+	mcmc;
+	sump;
+	sumt;
+
+	end;
